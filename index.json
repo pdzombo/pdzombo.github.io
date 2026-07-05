@@ -1,0 +1,51 @@
+{
+	"format": "particle",
+	"title": "Zombo.com",
+	"content": [
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome to Zombocom.\n"},
+        {
+            "type": "reel",
+            "width": 128,
+            "height": 96,
+            "frame-duration": 3,
+            "margin-top":0,
+            "frames":
+            [
+                "yyyyyc ytAcAycAcAyt yqAcAcAcArAcAcAcAyq yrAcAcAcApAcAcAcAyr yoAcAcAcAcAnAcAcAcAcAyo ylAcAcAcAcAcAlAcAcAcAcAcAyl ymAcAcAcAcAcAjAcAcAcAcAcAym ynAcAcAcAcAcAhAcAcAcAcAcAyn ykAcAcAcAcAcAcAfAcAcAcAcAcAcAyk ylAcAcAcAcAcAcAdAcAcAcAcAcAcAyl yiAcAcAcAcAcAcAjAcAcAcAcAcAcAyi yjAcAcAcAcAcAcAhAcAcAcAcAcAcAyj ykAcAcAcAcAcAcAfAcAcAcAcAcAcAyk yhAcAcAcAcAcAcAcAdAcAcAcAcAcAcAcAyh yiAcAcAcAcAcAcAcAbAcAcAcAcAcAcAcAyi yjAcAcAcAcAcAcAhAcAcAcAcAcAcAyj ykAcAcAcAcAcAcAfAcAcAcAcAcAcAyk yhAcAcAcAcAcAcAcAdAcAcAcAcAcAcAcAyh yiAcAcAcAcAcAcAcAbAcAcAcAcAcAcAcAyi yjAcAcAcAcAcAcAhAcAcAcAcAcAcAyj ykAcAcAcAcAcAcAfAcAcAcAcAcAcAyk ylAcAcAcAcAcAcAdAcAcAcAcAcAcAyl yiAcAcAcAcAcAcAjAcAcAcAcAcAcAyi yjAcAcAcAcAcAcAhAcAcAcAcAcAcAyj ykAcAcAcAcAcAnAcAcAcAcAcAyk ylAcAcAcAcAcAlAcAcAcAcAcAyl ymAcAcAcAcAcAjAcAcAcAcAcAym ynAcAcAcAcApAcAcAcAcAyn yoAcAcAcAvAcAcAcAyo ypAcAcAcAtAcAcAcAyp yuAcAyaAcAyu yyyyyc yyyyyc yyjBbByyl yyhBbBbBbAyyg yyhBbBbBbByyf yyfBbBbBbBbByyd yycAbBbBbBbBbByyd yydBbBbBbBbBbByyb yydBbBbBbBbBbByyb yybBbBbBbBbBbBbAyya yybBbBbBbBbBbBbByy yyBbBbBbBbBbBbByyb yyBbBbBbBbBbBbByyb yxAbBbBbBbBbBbBbByy yxAbBbBbBbBbBbBbByy yyBbBbBbBbBbBbBbAyx yyBbBbBbBbBbBbBbAyx yxAbBbBbBbBbBbBbByy yxAbBbBbBbBbBbBbByy yyBbBbBbBbBbBbBbAyx yyBbBbBbBbBbBbBbAyx yybBbBbBbBbBbBbByy yybBbBbBbBbBbBbByy yyBbBbBbBbBbBbByyb yyaAbBbBbBbBbBbByyb yybBbBbBbBbBbByyd yybBbBbBbBbBbByyd yydBbBbBbBbBbAyyc yydBbBbBbBbByyf yyfBbBbBbByyh yygAbBbBbByyh yylBbByyj yyyyyc yyyyyc yyycAcAyt yywAcAcAcAyq yyvAcAcAcAyr yyuAcAcAcAcAyo yytAcAcAcAcAcAyl yysAcAcAcAcAcAym yyrAcAcAcAcAcAyn yyqAcAcAcAcAcAcAyk yypAcAcAcAcAcAcAyl yysAcAcAcAcAcAcAyi yyrAcAcAcAcAcAcAyj yyqAcAcAcAcAcAcAyk yypAcAcAcAcAcAcAcAyh yyoAcAcAcAcAcAcAcAyi yyrAcAcAcAcAcAcAyj yyqAcAcAcAcAcAcAyk yypAcAcAcAcAcAcAcAyh yyoAcAcAcAcAcAcAcAyi yyrAcAcAcAcAcAcAyj yyqAcAcAcAcAcAcAyk yypAcAcAcAcAcAcAyl yysAcAcAcAcAcAcAyi yyrAcAcAcAcAcAcAyj yyuAcAcAcAcAcAyk yytAcAcAcAcAcAyl yysAcAcAcAcAcAym yyvAcAcAcAcAyn yyyAcAcAcAyo yyxAcAcAcAyp yyybAcAyu yyyyyc",
+
+                "yyyyyc ytAcAyaAaAaAaAyt yqAcAcAcArAaAaAaAaAaAaAyq yrAcAcAcApAaAaAaAaAaAaAaAyp yoAcAcAcAcAnAaAaAaAaAaAaAaAaAaAym ylAcAcAcAcAcAlAaAaAaAaAaAaAaAaAaAaAyl ymAcAcAcAcAcAjAaAaAaAaAaAaAaAaAaAaAaAyk ynAcAcAcAcAcAhAaAaAaAaAaAaAaAaAaAaAaAyl ykAcAcAcAcAcAcAfAaAaAaAaAaAaAaAaAaAaAaAaAyk ylAcAcAcAcAcAcAdAaAaAaAaAaAaAaAaAaAaAaAaAaAyj yiAcAcAcAcAcAcAhAaAaAaAaAaAaAaAaAaAaAaAaAaAyi yjAcAcAcAcAcAcAfAaAaAaAaAaAaAaAaAaAaAaAaAaAyj ykAcAcAcAcAcAcAdAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyi yhAcAcAcAcAcAcAcAdAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyh yiAcAcAcAcAcAcAcAbAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyi yjAcAcAcAcAcAcAfAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyh ykAcAcAcAcAcAcAdAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyi yhAcAcAcAcAcAcAcAdAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyh yiAcAcAcAcAcAcAcAbAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyi yjAcAcAcAcAcAcAfAaAaAaAaAaAaAaAaAaAaAaAaAaAaAyh ykAcAcAcAcAcAcAfAaAaAaAaAaAaAaAaAaAaAaAaAaAyi ylAcAcAcAcAcAcAdAaAaAaAaAaAaAaAaAaAaAaAaAaAyj yiAcAcAcAcAcAcAhAaAaAaAaAaAaAaAaAaAaAaAaAaAyi yjAcAcAcAcAcAcAhAaAaAaAaAaAaAaAaAaAaAaAaAyj ykAcAcAcAcAcAlAaAaAaAaAaAaAaAaAaAaAaAyk ylAcAcAcAcAcAjAaAaAaAaAaAaAaAaAaAaAaAyl ymAcAcAcAcAcAjAaAaAaAaAaAaAaAaAaAaAym ynAcAcAcAcAnAaAaAaAaAaAaAaAaAaAyn yoAcAcAcAtAaAaAaAaAaAaAaAyo ypAcAcAcAtAaAaAaAaAaAaAyp yuAcAyaAaAaAaAys yyyyyc yyyyyc ycAaAaAaAybBbByyj yAaAaAaAaAaAaAsAbBbBbByyh xAaAaAaAaAaAaAaAqBbBbBbByyh wAaAaAaAaAaAaAaAaAaAlBbBbBbBbBqAcAcAcAcAv vAaAaAaAaAaAaAaAaAaAaAkBbBbBbBbBbAyyc uAaAaAaAaAaAaAaAaAaAaAaAhBbBbBbBbBbByyd tAaAaAaAaAaAaAaAaAaAaAaAiBbBbBbBbBbByyd sAaAaAaAaAaAaAaAaAaAaAaAaAgAbBbBbBbBbBbBjAcAcAcAcAcAu rAaAaAaAaAaAaAaAaAaAaAaAaAaAeBbBbBbBbBbBbByyb sAaAaAaAaAaAaAaAaAaAaAaAaAaAfBbBbBbBbBbBbByy rAaAaAaAaAaAaAaAaAaAaAaAaAaAgBbBbBbBbBbBbByy qAaAaAaAaAaAaAaAaAaAaAaAaAaAaAdBbBbBbBbBbBbBbAdAcAcAcAcAcAcAt rAaAaAaAaAaAaAaAaAaAaAaAaAaAaAcBbBbBbBbBbBbBbAyx qAaAaAaAaAaAaAaAaAaAaAaAaAaAaAcAbBbBbBbBbBbBbByy rAaAaAaAaAaAaAaAaAaAaAaAaAaAaAbAbBbBbBbBbBbBbByy qAaAaAaAaAaAaAaAaAaAaAaAaAaAaAdBbBbBbBbBbBbBbAeAcAcAcAcAcAcAs rAaAaAaAaAaAaAaAaAaAaAaAaAaAaAcBbBbBbBbBbBbBbAyx qAaAaAaAaAaAaAaAaAaAaAaAaAaAaAcAbBbBbBbBbBbBbByy rAaAaAaAaAaAaAaAaAaAaAaAaAaAaAbAbBbBbBbBbBbBbByy sAaAaAaAaAaAaAaAaAaAaAaAaAaAdBbBbBbBbBbBbBiAcAcAcAcAcAcAr rAaAaAaAaAaAaAaAaAaAaAaAaAaAeBbBbBbBbBbBbByyb sAaAaAaAaAaAaAaAaAaAaAaAaAaAfBbBbBbBbBbBbByy tAaAaAaAaAaAaAaAaAaAaAaAaAgBbBbBbBbBbBbAyya uAaAaAaAaAaAaAaAaAaAaAaAjBbBbBbBbBbBjAcAcAcAcAcAu tAaAaAaAaAaAaAaAaAaAaAaAkBbBbBbBbBbByyb uAaAaAaAaAaAaAaAaAaAaAkAbBbBbBbBbByyd vAaAaAaAaAaAaAaAaAaAoBbBbBbBbByyd yAaAaAaAaAaAaAaArBbBbBbBsAcAcAcAx yaAaAaAaAaAaAaAsBbBbBbAyyg ydAaAaAaAxBbByyl yyyyyc yyyyyc yuBbByyya ypAbBbBbByyx yoBbBbBbByyx ymBbBbBbBbByyv ymBbBbBbBbBbAyys ykBbBbBbBbBbByyt ykBbBbBbBbBbByyt yjAbBbBbBbBbBbByyr yiBbBbBbBbBbBbByyr ykBbBbBbBbBbBbByyp ykBbBbBbBbBbBbByyp yiBbBbBbBbBbBbBbAyyo yiBbBbBbBbBbBbBbAyyo yhAbBbBbBbBbBbBbByyp yhAbBbBbBbBbBbBbByyp yiBbBbBbBbBbBbBbAyyo yiBbBbBbBbBbBbBbAyyo yhAbBbBbBbBbBbBbByyp yhAbBbBbBbBbBbBbByyp yiBbBbBbBbBbBbByyr yiBbBbBbBbBbBbByyr ykBbBbBbBbBbBbByyp ykBbBbBbBbBbBbAyyq ymBbBbBbBbBbByyr ymBbBbBbBbBbByyr ylAbBbBbBbBbByyt yoBbBbBbBbByyt yqBbBbBbByyv yqBbBbBbAyyw ysBbByyyc yyyyyc",
+
+                "yyyyyc yyyyyc yyyyyc yyyyyc ypAcAcAcAcAoAcAcAcAcAym yyyyyc yyyyyc yyyyyc ymAcAcAcAcAcAkAcAcAcAcAcAyl yyyyyc yyyyyc yyyyyc yjAcAcAcAcAcAcAgAcAcAcAcAcAcAyk yyyyyc yyyyyc yyyyyc ykAcAcAcAcAcAcAgAcAcAcAcAcAcAyj yyyyyc yyyyyc yyyyyc ylAcAcAcAcAcAcAgAcAcAcAcAcAcAyi yyyyyc yyyyyc yyyyyc ymAcAcAcAcAcAkAcAcAcAcAcAyl yyyyyc yyyyyc yyyyyc yrAcAcAcAsAcAcAcAyo yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yygAcAcAcAcAyyd yyyyyc yyyyyc yyyyyc yydAcAcAcAcAcAyyc yyyyyc yyyyyc yyyyyc yyaAcAcAcAcAcAcAyyb yyyyyc yyyyyc yyyyyc yybAcAcAcAcAcAcAyya yyyyyc yyyyyc yyyyyc yycAcAcAcAcAcAcAyy yyyyyc yyyyyc yyyyyc yydAcAcAcAcAcAyyc yyyyyc yyyyyc yyyyyc yyiAcAcAcAyyf yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yywAcAcAcAcAym yyyyyc yyyyyc yyyyyc yytAcAcAcAcAcAyl yyyyyc yyyyyc yyyyyc yyqAcAcAcAcAcAcAyk yyyyyc yyyyyc yyyyyc yyrAcAcAcAcAcAcAyj yyyyyc yyyyyc yyyyyc yysAcAcAcAcAcAcAyi yyyyyc yyyyyc yyyyyc yytAcAcAcAcAcAyl yyyyyc yyyyyc yyyyyc yyyAcAcAcAyo yyyyyc yyyyyc yyyyyc",
+
+                "yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyynAcAcAcAcAv yyyyyc yyyyyc yyyyyc yyykAcAcAcAcAcAu yyyyyc yyyyyc yyyyyc yyyhAcAcAcAcAcAcAt yyyyyc yyyyyc yyyyyc yyyiAcAcAcAcAcAcAs yyyyyc yyyyyc yyyyyc yyyjAcAcAcAcAcAcAr yyyyyc yyyyyc yyyyyc yyykAcAcAcAcAcAu yyyyyc yyyyyc yyyyyc yyypAcAcAcAx yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc yyyyyc"
+            ]
+        },
+        {"type": "paragraph","style": {"text-align": "center"},"text":"\nThis is Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"This is Zombocom, welcome to Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"You can do anything at Zombocom, anything at all.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"The only limit is yourself.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome to Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome to *Zombocom*.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"This *is* Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"*Welcome* to Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"This is *Zombocom* welcome!\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Yes, this is Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"This is Zombocom, and welcome to you who have come to Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Anything is possible at Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"You can do anything at Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"The infinite is possible at Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"The unattainable is unknown at Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome to Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"This is Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome to Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"This is Zombocom.\n"},
+        {"type": "paragraph","style": {"text-align": "center"},"text":"Welcome to *Zombocom*!\n\n\n"},
+        {"type": "paragraph","style": {"text-align": "center", "margin-bottom":200},"text":"Welcome to _Zombocom_."},
+        {
+			"type": "button",
+			"label": "Sign Up For The New*Z*Letter"
+		}
+	]
+}
